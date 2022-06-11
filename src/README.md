@@ -1,0 +1,1 @@
+[こちら](https://avocadev.hashnode.dev/create-skeleton-loading-animation-with-css-and-reactjs?source=newsletter)の記事を参考にしたものです。
